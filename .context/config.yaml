@@ -1,0 +1,5 @@
+project_id: parameter-golf
+project_name: "OpenAI Parameter Golf Challenge"
+description: "在 16MB + 10分钟约束下训练最优语言模型"
+created: 2026-03-25
+memory_root: .context
